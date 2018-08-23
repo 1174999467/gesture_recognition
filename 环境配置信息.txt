@@ -1,0 +1,3 @@
+Python 3.6.5 |Anaconda 
+tensorflow1.9
+╢ЗбК╡Бйт©исц
